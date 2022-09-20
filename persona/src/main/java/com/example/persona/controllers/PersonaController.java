@@ -47,7 +47,7 @@ public class PersonaController {
 
     }
     @PutMapping("/{id}")
-    public ResponseEntity<?> update(Long id,@RequestBody Persona entity){
+    public ResponseEntity<?> update(@PathVariable Long id,@RequestBody Persona entity){
         try{
             return ResponseEntity.status(HttpStatus.OK).body(personaService.update(id,entity));
         }catch (Exception e){
