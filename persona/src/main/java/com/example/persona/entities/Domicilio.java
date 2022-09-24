@@ -1,6 +1,5 @@
 package com.example.persona.entities;
 
-import com.example.persona.entities.audit.Localidad;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

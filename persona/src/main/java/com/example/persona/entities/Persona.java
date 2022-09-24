@@ -1,11 +1,9 @@
 package com.example.persona.entities;
 
-import com.example.persona.entities.audit.Libro;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.hibernate.annotations.Cascade;
 import org.hibernate.envers.Audited;
 
 import javax.persistence.*;

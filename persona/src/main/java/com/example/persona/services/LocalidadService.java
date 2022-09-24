@@ -1,7 +1,6 @@
 package com.example.persona.services;
 
-import com.example.persona.entities.Base;
-import com.example.persona.entities.audit.Localidad;
+import com.example.persona.entities.Localidad;
 
 public interface LocalidadService extends BaseService<Localidad, Long> {
 

@@ -1,6 +1,6 @@
 package com.example.persona.services;
 
-import com.example.persona.entities.audit.Localidad;
+import com.example.persona.entities.Localidad;
 import com.example.persona.repositoires.BaseRepository;
 import org.springframework.stereotype.Service;
 

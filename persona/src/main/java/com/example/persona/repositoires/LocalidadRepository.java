@@ -1,6 +1,6 @@
 package com.example.persona.repositoires;
 
-import com.example.persona.entities.audit.Localidad;
+import com.example.persona.entities.Localidad;
 import org.springframework.stereotype.Repository;
 
 @Repository

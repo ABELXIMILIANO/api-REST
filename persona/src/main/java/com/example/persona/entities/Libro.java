@@ -1,7 +1,5 @@
-package com.example.persona.entities.audit;
+package com.example.persona.entities;
 
-import com.example.persona.entities.Autor;
-import com.example.persona.entities.Base;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
